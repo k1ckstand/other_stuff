@@ -1,0 +1,19 @@
+{
+    "editor.rulers": [80, 120],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4080"
+    },
+    "python.pythonPath": ".venv/bin/python",
+    "cSpell.words": [
+        "dont",
+        "imshow",
+        "imwrite",
+        "MNIST",
+        "ndarray",
+        "optim",
+        "pynput",
+        "pytesseract",
+        "tqdm",
+        "trex"
+    ]
+}
